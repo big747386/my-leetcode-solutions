@@ -51,7 +51,8 @@
 
 // @lc code=begin
 
-class Solution {
+//todo
+class Solution76 {
     public String minWindow(String s, String t) {
         int l = 0, r = 0, cnt = 0;
         char[] tCharactors = new char[128];

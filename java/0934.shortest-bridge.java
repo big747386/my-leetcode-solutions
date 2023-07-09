@@ -51,7 +51,7 @@
 import java.util.ArrayDeque;
 import java.util.Queue;
 
-class Solution {
+class Solution934 {
     int[] directions = new int[]{-1,0,1,0,-1};
     public int shortestBridge(int[][] grid) {
         int n = grid.length;
